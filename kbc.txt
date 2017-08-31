@@ -1,1 +1,2 @@
 git-flow-test
+v1.0
